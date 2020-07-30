@@ -1,16 +1,16 @@
-### Hi there 👋
+Python/Javascript Developer. Additionaly i am trainer on programming courses👨‍🎓.
+
+Basicaly i working with `Nest.js🐈`, `React.js`, but sometimes i can touch `golang`/`python` projects.
 
 <!--
-**VLZH/vlzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# The most important ideas for 2017
+- Static typing is very cool and safely.
+- Without automatic tests you can't to state about workability of your code.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+# The most important ideas for 2018
+- Write your businness-logic in Services.
+- Use validation/schema libraries, wherever you can.
+- DTO/dataclasses is cool.
 -->
